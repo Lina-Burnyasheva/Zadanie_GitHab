@@ -1,0 +1,15 @@
+C:\Users\Angelina\Desktop\Изучения питона Курс\NEW_Git_DZ\GIT_1\bin\Debug\net6.0\GIT_1.exe
+C:\Users\Angelina\Desktop\Изучения питона Курс\NEW_Git_DZ\GIT_1\bin\Debug\net6.0\GIT_1.deps.json
+C:\Users\Angelina\Desktop\Изучения питона Курс\NEW_Git_DZ\GIT_1\bin\Debug\net6.0\GIT_1.runtimeconfig.json
+C:\Users\Angelina\Desktop\Изучения питона Курс\NEW_Git_DZ\GIT_1\bin\Debug\net6.0\GIT_1.dll
+C:\Users\Angelina\Desktop\Изучения питона Курс\NEW_Git_DZ\GIT_1\bin\Debug\net6.0\GIT_1.pdb
+C:\Users\Angelina\Desktop\Изучения питона Курс\NEW_Git_DZ\GIT_1\obj\Debug\net6.0\GIT_1.csproj.AssemblyReference.cache
+C:\Users\Angelina\Desktop\Изучения питона Курс\NEW_Git_DZ\GIT_1\obj\Debug\net6.0\GIT_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angelina\Desktop\Изучения питона Курс\NEW_Git_DZ\GIT_1\obj\Debug\net6.0\GIT_1.AssemblyInfoInputs.cache
+C:\Users\Angelina\Desktop\Изучения питона Курс\NEW_Git_DZ\GIT_1\obj\Debug\net6.0\GIT_1.AssemblyInfo.cs
+C:\Users\Angelina\Desktop\Изучения питона Курс\NEW_Git_DZ\GIT_1\obj\Debug\net6.0\GIT_1.csproj.CoreCompileInputs.cache
+C:\Users\Angelina\Desktop\Изучения питона Курс\NEW_Git_DZ\GIT_1\obj\Debug\net6.0\GIT_1.dll
+C:\Users\Angelina\Desktop\Изучения питона Курс\NEW_Git_DZ\GIT_1\obj\Debug\net6.0\refint\GIT_1.dll
+C:\Users\Angelina\Desktop\Изучения питона Курс\NEW_Git_DZ\GIT_1\obj\Debug\net6.0\GIT_1.pdb
+C:\Users\Angelina\Desktop\Изучения питона Курс\NEW_Git_DZ\GIT_1\obj\Debug\net6.0\GIT_1.genruntimeconfig.cache
+C:\Users\Angelina\Desktop\Изучения питона Курс\NEW_Git_DZ\GIT_1\obj\Debug\net6.0\ref\GIT_1.dll
